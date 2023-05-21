@@ -20,7 +20,7 @@ logging.error('This is an error message')
 
 
 # Create a bot instance with a specified command prefix and intents
-bot_token = 'MTEwOTgzOTcxMjgyNDM0ODc2Mg.GkER8F.w76m_DzoR6eQ1QRMP5C0NW5cntUqPail4T7V-8'
+bot_token = 'TOKEN'
 intents = discord.Intents.default()
 intents.messages = True
 intents.reactions = True
